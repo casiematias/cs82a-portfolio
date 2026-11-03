@@ -1,2 +1,7 @@
-# cs82a-portfolio
-labs and project for SMC Computer Science 82a Introduction to Data Science
+# Casie Matias - Data Science Portfolio
+
+CS 82a: Introduction to Data Science at Santa Monica College (Fall 2026)
+Labs and Projects
+
+# Contains
+- Module 2: Python Foundations
