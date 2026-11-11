@@ -5,3 +5,4 @@ Labs and Projects
 
 # Contains
 - Module 2: Python Foundations
+- Module 3: Data: Types, Storage, and Cleaning
